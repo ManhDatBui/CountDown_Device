@@ -1,0 +1,49 @@
+E:\UNIVERSITY\IndustrialUniversityofHCMC\MON HOC\GTTB-Noaivi\led7segcountdown\software\Led7segcountdown_winform\bin\Debug\Led7segcountdown_winform.exe.config
+E:\UNIVERSITY\IndustrialUniversityofHCMC\MON HOC\GTTB-Noaivi\led7segcountdown\software\Led7segcountdown_winform\bin\Debug\Led7segcountdown_winform.exe
+E:\UNIVERSITY\IndustrialUniversityofHCMC\MON HOC\GTTB-Noaivi\led7segcountdown\software\Led7segcountdown_winform\bin\Debug\Led7segcountdown_winform.pdb
+E:\UNIVERSITY\IndustrialUniversityofHCMC\MON HOC\GTTB-Noaivi\led7segcountdown\software\Led7segcountdown_winform\bin\Debug\LibLED7Segment.dll
+E:\UNIVERSITY\IndustrialUniversityofHCMC\MON HOC\GTTB-Noaivi\led7segcountdown\software\Led7segcountdown_winform\obj\Debug\Led7segcountdown_winform.Form1.resources
+E:\UNIVERSITY\IndustrialUniversityofHCMC\MON HOC\GTTB-Noaivi\led7segcountdown\software\Led7segcountdown_winform\obj\Debug\Led7segcountdown_winform.Properties.Resources.resources
+E:\UNIVERSITY\IndustrialUniversityofHCMC\MON HOC\GTTB-Noaivi\led7segcountdown\software\Led7segcountdown_winform\obj\Debug\Led7segcountdown_winform.csproj.GenerateResource.cache
+E:\UNIVERSITY\IndustrialUniversityofHCMC\MON HOC\GTTB-Noaivi\led7segcountdown\software\Led7segcountdown_winform\obj\Debug\Led7segcountdown_winform.csproj.CoreCompileInputs.cache
+E:\UNIVERSITY\IndustrialUniversityofHCMC\MON HOC\GTTB-Noaivi\led7segcountdown\software\Led7segcountdown_winform\obj\Debug\Led7segcountdown_winform.csproj.CopyComplete
+E:\UNIVERSITY\IndustrialUniversityofHCMC\MON HOC\GTTB-Noaivi\led7segcountdown\software\Led7segcountdown_winform\obj\Debug\Led7segcountdown_winform.exe
+E:\UNIVERSITY\IndustrialUniversityofHCMC\MON HOC\GTTB-Noaivi\led7segcountdown\software\Led7segcountdown_winform\obj\Debug\Led7segcountdown_winform.pdb
+E:\UNIVERSITY\IndustrialUniversityofHCMC\MON HOC\GTTB-Noaivi\led7segcountdown\software\Led7segcountdown_winform\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+E:\UNIVERSITY\IndustrialUniversityofHCMC\MON HOC\GTTB-Noaivi\led7segcountdown\software\Led7segcountdown_winform\obj\Debug\Led7segcountdown_winform.csprojAssemblyReference.cache
+E:\UNIVERSITY\SUBJECT\GTDK-TBNV\CK\BT VN\led7segcountdown\software\Led7segcountdown_winform\bin\Debug\Led7segcountdown_winform.exe.config
+E:\UNIVERSITY\SUBJECT\GTDK-TBNV\CK\BT VN\led7segcountdown\software\Led7segcountdown_winform\bin\Debug\Led7segcountdown_winform.exe
+E:\UNIVERSITY\SUBJECT\GTDK-TBNV\CK\BT VN\led7segcountdown\software\Led7segcountdown_winform\bin\Debug\Led7segcountdown_winform.pdb
+E:\UNIVERSITY\SUBJECT\GTDK-TBNV\CK\BT VN\led7segcountdown\software\Led7segcountdown_winform\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+E:\UNIVERSITY\SUBJECT\GTDK-TBNV\CK\BT VN\led7segcountdown\software\Led7segcountdown_winform\obj\Debug\Led7segcountdown_winform.csproj.AssemblyReference.cache
+E:\UNIVERSITY\SUBJECT\GTDK-TBNV\CK\BT VN\led7segcountdown\software\Led7segcountdown_winform\obj\Debug\Led7segcountdown_winform.Form1.resources
+E:\UNIVERSITY\SUBJECT\GTDK-TBNV\CK\BT VN\led7segcountdown\software\Led7segcountdown_winform\obj\Debug\Led7segcountdown_winform.Properties.Resources.resources
+E:\UNIVERSITY\SUBJECT\GTDK-TBNV\CK\BT VN\led7segcountdown\software\Led7segcountdown_winform\obj\Debug\Led7segcountdown_winform.csproj.GenerateResource.cache
+E:\UNIVERSITY\SUBJECT\GTDK-TBNV\CK\BT VN\led7segcountdown\software\Led7segcountdown_winform\obj\Debug\Led7segcountdown_winform.csproj.CoreCompileInputs.cache
+E:\UNIVERSITY\SUBJECT\GTDK-TBNV\CK\BT VN\led7segcountdown\software\Led7segcountdown_winform\obj\Debug\Led7segcountdown_winform.csproj.CopyComplete
+E:\UNIVERSITY\SUBJECT\GTDK-TBNV\CK\BT VN\led7segcountdown\software\Led7segcountdown_winform\obj\Debug\Led7segcountdown_winform.exe
+E:\UNIVERSITY\SUBJECT\GTDK-TBNV\CK\BT VN\led7segcountdown\software\Led7segcountdown_winform\obj\Debug\Led7segcountdown_winform.pdb
+E:\UNIVERSITY\SUBJECT\GTDK-TBNV\CK\CKPIC\MOPHONG\Led7segcountdown_winformpic\bin\Debug\Led7segcountdown_winform.exe.config
+E:\UNIVERSITY\SUBJECT\GTDK-TBNV\CK\CKPIC\MOPHONG\Led7segcountdown_winformpic\bin\Debug\Led7segcountdown_winform.exe
+E:\UNIVERSITY\SUBJECT\GTDK-TBNV\CK\CKPIC\MOPHONG\Led7segcountdown_winformpic\bin\Debug\Led7segcountdown_winform.pdb
+E:\UNIVERSITY\SUBJECT\GTDK-TBNV\CK\CKPIC\MOPHONG\Led7segcountdown_winformpic\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+E:\UNIVERSITY\SUBJECT\GTDK-TBNV\CK\CKPIC\MOPHONG\Led7segcountdown_winformpic\obj\Debug\Led7segcountdown_winform.csproj.AssemblyReference.cache
+E:\UNIVERSITY\SUBJECT\GTDK-TBNV\CK\CKPIC\MOPHONG\Led7segcountdown_winformpic\obj\Debug\Led7segcountdown_winform.Form1.resources
+E:\UNIVERSITY\SUBJECT\GTDK-TBNV\CK\CKPIC\MOPHONG\Led7segcountdown_winformpic\obj\Debug\Led7segcountdown_winform.Properties.Resources.resources
+E:\UNIVERSITY\SUBJECT\GTDK-TBNV\CK\CKPIC\MOPHONG\Led7segcountdown_winformpic\obj\Debug\Led7segcountdown_winform.csproj.GenerateResource.cache
+E:\UNIVERSITY\SUBJECT\GTDK-TBNV\CK\CKPIC\MOPHONG\Led7segcountdown_winformpic\obj\Debug\Led7segcountdown_winform.csproj.CoreCompileInputs.cache
+E:\UNIVERSITY\SUBJECT\GTDK-TBNV\CK\CKPIC\MOPHONG\Led7segcountdown_winformpic\obj\Debug\Led7segcountdown_winform.csproj.CopyComplete
+E:\UNIVERSITY\SUBJECT\GTDK-TBNV\CK\CKPIC\MOPHONG\Led7segcountdown_winformpic\obj\Debug\Led7segcountdown_winform.exe
+E:\UNIVERSITY\SUBJECT\GTDK-TBNV\CK\CKPIC\MOPHONG\Led7segcountdown_winformpic\obj\Debug\Led7segcountdown_winform.pdb
+E:\UNIVERSITY\SUBJECT\GTDK-TBNV\CK\PROJECT_CK\GIAODIENDK\GIAODIEN_PIC\Led7segcountdown_PIC\obj\Debug\Led7segcountdown_winform.csproj.AssemblyReference.cache
+E:\UNIVERSITY\SUBJECT\GTDK-TBNV\CK\PROJECT_CK\GIAODIENDK\GIAODIEN_PIC\Led7segcountdown_PIC\obj\Debug\Led7segcountdown_winform.Form1.resources
+E:\UNIVERSITY\SUBJECT\GTDK-TBNV\CK\PROJECT_CK\GIAODIENDK\GIAODIEN_PIC\Led7segcountdown_PIC\obj\Debug\Led7segcountdown_winform.Properties.Resources.resources
+E:\UNIVERSITY\SUBJECT\GTDK-TBNV\CK\PROJECT_CK\GIAODIENDK\GIAODIEN_PIC\Led7segcountdown_PIC\obj\Debug\Led7segcountdown_winform.csproj.GenerateResource.cache
+E:\UNIVERSITY\SUBJECT\GTDK-TBNV\CK\PROJECT_CK\GIAODIENDK\GIAODIEN_PIC\Led7segcountdown_PIC\obj\Debug\Led7segcountdown_winform.csproj.CoreCompileInputs.cache
+E:\UNIVERSITY\SUBJECT\GTDK-TBNV\CK\PROJECT_CK\GIAODIENDK\GIAODIEN_PIC\Led7segcountdown_PIC\obj\Debug\Led7segcountdown_winform.exe
+E:\UNIVERSITY\SUBJECT\GTDK-TBNV\CK\PROJECT_CK\GIAODIENDK\GIAODIEN_PIC\Led7segcountdown_PIC\obj\Debug\Led7segcountdown_winform.pdb
+E:\UNIVERSITY\SUBJECT\GTDK-TBNV\CK\PROJECT_CK\GIAODIENDK\GIAODIEN_PIC\Led7segcountdown_PIC\bin\Debug\Led7segcountdown_winform.exe.config
+E:\UNIVERSITY\SUBJECT\GTDK-TBNV\CK\PROJECT_CK\GIAODIENDK\GIAODIEN_PIC\Led7segcountdown_PIC\bin\Debug\Led7segcountdown_winform.exe
+E:\UNIVERSITY\SUBJECT\GTDK-TBNV\CK\PROJECT_CK\GIAODIENDK\GIAODIEN_PIC\Led7segcountdown_PIC\bin\Debug\Led7segcountdown_winform.pdb
+E:\UNIVERSITY\SUBJECT\GTDK-TBNV\CK\PROJECT_CK\GIAODIENDK\GIAODIEN_PIC\Led7segcountdown_PIC\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+E:\UNIVERSITY\SUBJECT\GTDK-TBNV\CK\PROJECT_CK\GIAODIENDK\GIAODIEN_PIC\Led7segcountdown_PIC\obj\Debug\Led7segcountdown_winform.csproj.CopyComplete

@@ -1,0 +1,27 @@
+[
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "D:\\PMHOCTAP\\Arduino\\hardware\\arduino\\avr\\cores\\arduino"
+  },
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "D:\\PMHOCTAP\\Arduino\\hardware\\arduino\\avr\\variants\\mega"
+  },
+  {
+    "Sourcefile": "C:\\Users\\Admin\\AppData\\Local\\Temp\\arduino_build_109007\\sketch\\countdown_arduino_ck.ino.cpp",
+    "Include": "LiquidCrystal.h",
+    "Includepath": "D:\\PMHOCTAP\\Arduino\\libraries\\LiquidCrystal\\src"
+  },
+  {
+    "Sourcefile": "C:\\Users\\Admin\\AppData\\Local\\Temp\\arduino_build_109007\\sketch\\countdown_arduino_ck.ino.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "D:\\PMHOCTAP\\Arduino\\libraries\\LiquidCrystal\\src\\LiquidCrystal.cpp",
+    "Include": "",
+    "Includepath": null
+  }
+]

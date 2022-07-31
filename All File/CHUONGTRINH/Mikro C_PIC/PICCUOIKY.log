@@ -1,0 +1,15 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP18F4550 -DL -O11111114 -fo20 -N"E:\UNIVERSITY\SUBJECT\GTDK-TBNV\CK\PROJECT_CK\CHUONGTRINH\Mikro C_PIC\PICCUOIKY.mcppi" -SP"D:\PMHOCTAP\MicroC\mikroC PRO for PIC\Defs\" -SP"D:\PMHOCTAP\MicroC\mikroC PRO for PIC\uses\P18\" -SP"E:\UNIVERSITY\SUBJECT\GTDK-TBNV\CK\PROJECT_CK\CHUONGTRINH\Mikro C_PIC\" -SP"E:\UNIVERSITY\SUBJECT\GTDK-TBNV\CK\CKPIC\" "PICCUOIKY.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_CType.mcl" "__Lib_CString.mcl" "__Lib_CStdlib.mcl" "__Lib_Sprintf.mcl" "__Lib_Button.mcl" "__Lib_UART_c67.mcl" "__Lib_LcdConsts.mcl" "__Lib_Lcd.mcl"	 
+hint: 0	1139	Available RAM: 2027 [bytes], Available ROM: 32768 [bytes]	 
+diagnostics: 0	122	Compilation Started	PICCUOIKY.c
+diagnostics: 172	123	Compiled Successfully	PICCUOIKY.c
+hint: 47	1164	Variable 'hc' has been eliminated by optimizer	PICCUOIKY.c
+hint: 48	1164	Variable 'dv' has been eliminated by optimizer	PICCUOIKY.c
+hint: 43	1164	Variable 'countfrom' has been eliminated by optimizer	PICCUOIKY.c
+hint: 151	1164	Variable 'i' has been eliminated by optimizer	PICCUOIKY.c
+diagnostics: 0	127	All files Compiled in 610 ms	 
+hint: 0	1144	Used RAM (bytes): 127 (6%)  Free RAM (bytes): 1900 (94%)	Used RAM (bytes): 127 (6%)  Free RAM (bytes): 1900 (94%)
+hint: 0	1144	Used ROM (bytes): 17109 (52%)  Free ROM (bytes): 15659 (48%)	Used ROM (bytes): 17109 (52%)  Free ROM (bytes): 15659 (48%)
+diagnostics: 0	125	Project Linked Successfully	PICCUOIKY.mcppi
+diagnostics: 0	128	Linked in 156 ms	 
+diagnostics: 0	129	Project 'PICCUOIKY.mcppi' completed: 797 ms	 
+diagnostics: 0	103	Finished successfully: 16 Jun 2021, 07:16:13	PICCUOIKY.mcppi
